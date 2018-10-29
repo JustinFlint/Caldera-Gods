@@ -1,0 +1,9 @@
+name: CalderaGods
+main: co.guysanchez.calderaGods.Main
+version: 1.0
+api-version: 1.13
+commands:
+  CalderaGods:
+   description: The primary command for CalderaGods
+   usage: /<command> [list|setPriest|admin]
+author: GuySanchez
